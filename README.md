@@ -1,7 +1,7 @@
 # revivir-fotos
 Dar color a imágenes en blanco y negro de épocas de antaño con ayuda de Deep Learning con la automatización de pyautogui. 
 
-El objetivo del proyecto es utilizarla cuando tengas una cantidad relativamente grande de imágenes (unas 100 imágenes en adelante considero) y tengas muy poca noción de variables de entorno, configuración de access_key, etc. Sí crees que tenes los conocimientos necesarios y tenés una alta carga de datos mejor implementa la librería.
+El objetivo del proyecto es utilizarla cuando tengas una cantidad relativamente pequeña de imágenes (considero superior a 100 imágenes) y tengas muy poca noción de variables de entorno, configuración de access_key, etc. Sí crees que tenes los conocimientos necesarios y tenés una alta carga de datos mejor implementa la librería.
 
 # Resultados post-curado
 
