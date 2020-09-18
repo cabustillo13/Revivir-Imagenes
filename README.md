@@ -31,7 +31,7 @@ No. Al ejecutar el programa tiene varios delays de 1 segundo para poder apreciar
 
 **¿Cuándo utilizar este programa?** 
 
-Cuando tengas una cantidad relativamente grande de imágenes (unas 100 imágenes en adelante considero) y tengas muy ṕoca noción de variables de entorno, configuración de access_key, etc. Sí crees que tenes los conocimientos necesarios y tenés una alta carga de datos mejor implementa la librería.
+Cuando tengas una cantidad relativamente pequeño de imágenes (unas 100 imágenes en adelante considero) y tengas muy ṕoca noción de variables de entorno, configuración de access_key, etc. Sí crees que tenes los conocimientos necesarios y tenés una alta carga de datos mejor implementa la librería.
 
 Se puede correr éstos programas desde una Raspberry u otro microprocesador para realizar acciones automáticas con la menor cantidad de recursos y energía.
 
