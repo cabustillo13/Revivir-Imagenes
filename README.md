@@ -31,7 +31,7 @@ Se puede correr estos programas desde una Raspberry u otro microprocesador para 
 
 No. Está configurado para las dimensiones físicas de mi equipo, por eso debe hacer un set up para su equipo.
 
-**¿Qué otros usos puedo darle?** 
+**¿Qué otros usos puedo darle a funciones.py y polling.py?** 
 
 * Puede ser un gran ejercicio para aprender pyautogui porque prácticamente involucra muchos de sus comandos.
 
