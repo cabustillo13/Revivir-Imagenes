@@ -1,19 +1,11 @@
 # revivir-fotos
 Dar color a imágenes en blanco y negro de épocas de antaño con ayuda de Deep Learning con la automatización de pyautogui. 
 
-# Introducción
-
-Imagina la foto de boda de tus abuelos o bisabuelos que posiblemente está en blanco y negro, ¿no te da curiosidad saber cuáles eran los colores de los vestidos o trajes de ellos? ¿cómo era el color de la decoración?.
-
-También imagina fotos de museos muy antigüas, ¿no te gustaría ver el contexto a color y ver cómo era la vida en esos tiempos?. 
-
-Ver fotografías de la primera guerra mundial a color y ver cómo era la situación realmente. 
-
-**Estas y muchas cosas más me motivaron a investigar sobre el tema.**
+El objetivo del proyecto es utilizarla cuando tengas una cantidad relativamente grande de imágenes (unas 100 imágenes en adelante considero) y tengas muy poca noción de variables de entorno, configuración de access_key, etc. Sí crees que tenes los conocimientos necesarios y tenés una alta carga de datos mejor implementa la librería.
 
 # Resultados post-curado
 
-![compara1](https://github.com/cabustillo13/Revivir-imagenes/blob/master/Ejemplos/comparar1.png)
+![compara1](https://github.com/cabustillo13/Revivir-Imagenes/blob/master/Ejemplos/comparar1.png)
 
 ![compara0](https://github.com/cabustillo13/Revivir-imagenes/blob/master/Ejemplos/comparar0.png)
 
@@ -33,11 +25,11 @@ No. Al ejecutar el programa tiene varios delays de 1 segundo para poder apreciar
 
 Cuando tengas una cantidad relativamente pequeño de imágenes (unas 100 imágenes en adelante considero) y tengas muy ṕoca noción de variables de entorno, configuración de access_key, etc. Sí crees que tenes los conocimientos necesarios y tenés una alta carga de datos mejor implementa la librería.
 
-Se puede correr éstos programas desde una Raspberry u otro microprocesador para realizar acciones automáticas con la menor cantidad de recursos y energía.
+Se puede correr estos programas desde una Raspberry u otro microprocesador para realizar acciones automáticas con la menor cantidad de recursos y energía.
 
 **¿Puedo correr este programa directamente en mi computadora?**
 
-No. Está configurado para las dimensiones físicas de mi equipo.
+No. Está configurado para las dimensiones físicas de mi equipo, por eso debe hacer un set up para su equipo.
 
 **¿Qué otros usos puedo darle?** 
 
